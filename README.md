@@ -85,4 +85,5 @@ The dataset contains information about top companies listed on AmbitionBox, incl
 This project and dataset were created strictly for educational and analytical purposes using publicly accessible company information from AmbitionBox.
 
 ## Author
+Sairam Pimple
 Data Analytics & Data Science Enthusiast
